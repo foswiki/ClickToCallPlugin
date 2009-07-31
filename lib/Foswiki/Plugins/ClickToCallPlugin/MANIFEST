@@ -1,0 +1,4 @@
+# Release manifest for ClickToCallPlugin
+data/System/ClickToCallPlugin.txt 0644 Documentation
+lib/Foswiki/Plugins/ClickToCallPlugin.pm 0644 Perl module
+
